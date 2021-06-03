@@ -48,6 +48,6 @@ float mc_pi(int i) {
           count+=1;
         }
     count*=4;
-    return (float)c/i;
+    return (float)count/i;
     }
 
